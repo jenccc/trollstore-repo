@@ -54,5 +54,27 @@
       "size": "未知",
       "author": "未知",
       "screenshots": []
-    }  ]
+    } 
+    ,
+    {
+      "name": "FakeTools",
+      "version": "5.6",
+      "description": "·虚拟工具箱 
+·插件免费分享！
+·无任何联网操作！
+·所有功能均属本地！
+·长按每个功能均有详细介绍！         
+三种调出方法
+·二指长按🟰调出UI菜单
+·三指双击🟰调出悬浮标菜单
+·双击导航栏🟰调出菜单",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/FakeTools.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+  ]
 }
