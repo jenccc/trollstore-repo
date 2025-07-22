@@ -1,5 +1,5 @@
 {
-  "repository_name": "我的插件源",
+  "repository_name": "整合插件源",
   "repository_icon": "https://example.com/repo-icon.png",
   "packages": [
     {
@@ -16,6 +16,18 @@
         "https://example.com/screenshots/shot1.png",
         "https://example.com/screenshots/shot2.png"
       ]
+    },
+    {
+      "name": "Flightradar24",
+      "version": "v1.0.0",
+      "description": "將 Flightradar24 整合為 TrollStore 插件示範。",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://example.com/downloads/flightradar24.dylib",
+      "section": "多媒體",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
     }
   ]
 }
