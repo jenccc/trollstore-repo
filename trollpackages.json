@@ -29,5 +29,18 @@
       "author": "未知",
       "screenshots": []
     }
+    ,
+    {
+      "name": "小鹿播放器",
+      "version": "v1.0.0",
+      "description": "去廣告",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E5%B0%8F%E9%B9%BF%E6%92%AD%E6%94%BE%E5%99%A8.zip",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
   ]
 }
