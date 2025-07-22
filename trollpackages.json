@@ -59,12 +59,7 @@
     {
       "name": "FakeTools",
       "version": "5.6",
-      "description": "
-·長按每個功能都有詳細介紹！
-三種調出方法
-·二指長按🟰調出UI選單
-·三指雙擊🟰調出懸浮標選單
-·雙擊導覽列🟰調出選單",
+      "description": "虛擬工具箱",
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/FakeTools.dylib",
