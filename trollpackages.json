@@ -42,5 +42,17 @@
       "author": "未知",
       "screenshots": []
     }
-  ]
+,
+    {
+      "name": "語音備忘錄",
+      "version": "v1.0.0",
+      "description": "隱藏錄音時鎖定畫面",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E8%AA%9E%E9%9F%B3%E5%82%99%E5%BF%98%E9%8C%84.zip",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }  ]
 }
