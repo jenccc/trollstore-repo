@@ -1,15 +1,15 @@
 {
-  "repository_name": "整合插件源",
+  "repository_name": "Jen Box",
   "repository_icon": "https://example.com/repo-icon.png",
   "packages": [
     {
-      "name": "MyTweak",
+      "name": "Super VPN",
       "version": "v1.0.0",
-      "description": "這是一個自訂的 TrollStore 插件，用來示範插件源的建立。",
+      "description": "Super VPN PRO。",
       "app_url": "",
       "icon_url": "https://example.com/icons/mytweak-icon.png",
-      "dylib": "https://example.com/downloads/mytweak.dylib",
-      "section": "系統工具",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/Super%20VPN.zip",
+      "section": "常用",
       "size": "120KB",
       "author": "Jen Su",
       "screenshots": [
@@ -24,7 +24,7 @@
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/Flightradar24Hack.dylib",
-      "section": "多媒體",
+      "section": "常用",
       "size": "未知",
       "author": "未知",
       "screenshots": []
