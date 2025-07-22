@@ -146,5 +146,18 @@
       "author": "未知",
       "screenshots": []
     }
+       ,
+    {
+      "name": "Speedtest",
+      "version": "1.0",
+      "description": "去廣告",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/Speedtest.zip",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
   ]
 }
