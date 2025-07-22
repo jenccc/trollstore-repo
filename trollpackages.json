@@ -94,5 +94,57 @@
       "author": "未知",
       "screenshots": []
     }
+    ,
+    {
+      "name": "寶藏助手",
+      "version": "1.6.4",
+      "description": "支援去廣告,內購破解",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E5%AF%B6%E8%97%8F%E5%8A%A9%E6%89%8B1.6.4.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+    ,
+    {
+      "name": "寶藏助手 輕量版",
+      "version": "1.6.5",
+      "description": "支援去廣告,內購破解",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E5%AF%B6%E8%97%8F%E5%8A%A9%E6%89%8B1.6.5.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+    ,
+    {
+      "name": "𝑭𝒍𝒚 𝑪𝒓𝒂𝒄𝒌 輕量版",
+      "version": "1.0",
+      "description": "內購破解",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%F0%9D%91%AD%F0%9D%92%8D%F0%9D%92%9A%20%F0%9D%91%AA%F0%9D%92%93%F0%9D%92%82%F0%9D%92%84%F0%9D%92%8C%E8%BC%95%E9%87%8F%E7%89%88.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
+    {
+      "name": "新設備",
+      "version": "1.0",
+      "description": "重複試用",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E9%87%8D%E8%A4%87%E8%A9%A6%E7%94%A8.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
   ]
 }
