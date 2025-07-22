@@ -20,10 +20,10 @@
     {
       "name": "Flightradar24",
       "version": "v1.0.0",
-      "description": "將 Flightradar24 整合為 TrollStore 插件示範。",
+      "description": "Flightradar24 AD。",
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
-      "dylib": "https://example.com/downloads/flightradar24.dylib",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/Flightradar24Hack.dylib",
       "section": "多媒體",
       "size": "未知",
       "author": "未知",
