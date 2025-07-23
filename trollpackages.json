@@ -61,9 +61,9 @@
       "version": "5.6",
       "description": "虛擬工具箱
       三種調出方法
-二指長按🟰調出UI菜單
-三指雙擊🟰調出懸浮標菜單
-雙擊導航欄🟰調出菜單",
+二指長按調出UI菜單
+三指雙擊調出懸浮標菜單
+雙擊導航欄調出菜單",
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/FakeTools.dylib",
@@ -171,6 +171,19 @@
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/alistTools%20Pro.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+    ,
+    {
+      "name": "keyboardaccio",
+      "version": "2.4.6",
+      "description": "鍵盤切換",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/keyboardaccio_2.4.6.deb",
       "section": "常用",
       "size": "未知",
       "author": "未知",
