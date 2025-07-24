@@ -230,7 +230,7 @@
       "description": "說明",
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
-      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/VLLO.zip",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/VLLOPRO.deb",
       "section": "常用",
       "size": "未知",
       "author": "未知",
