@@ -279,6 +279,7 @@
       "screenshots": []
     }
      ,
+  
     {
       "name": "名稱",
       "version": "1.0",
@@ -286,6 +287,19 @@
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "下載連結",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
+    {
+      "name": "小影",
+      "version": "1.0",
+      "description": "內購",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E5%B0%8F%E5%BD%B1.zip",
       "section": "常用",
       "size": "未知",
       "author": "未知",
