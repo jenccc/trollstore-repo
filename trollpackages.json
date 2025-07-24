@@ -237,6 +237,20 @@
       "screenshots": []
     }
      ,
+  
+    {
+      "name": "Pokecut",
+      "version": "1.0",
+      "description": "說明",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/Pokecut.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
     {
       "name": "名稱",
       "version": "1.0",
