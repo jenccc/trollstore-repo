@@ -197,6 +197,19 @@
       "size": "未知",
       "author": "未知",
       "screenshots": []
+    } 
+    ,
+    {
+      "name": "寶藏助手",
+      "version": "1.6.7",
+      "description": "通用版",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E5%AF%B6%E8%97%8F%E5%8A%A9%E6%89%8B1.6.7%20%E9%80%9A%E7%94%A8%E7%89%88.zip",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
     }
     ,
     {
