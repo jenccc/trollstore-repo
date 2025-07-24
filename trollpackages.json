@@ -187,6 +187,19 @@
     }
     ,
     {
+      "name": "ImmortalizerJailed",
+      "version": "2.2",
+      "description": "背景執行",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://raw.githubusercontent.com/jenccc/trollstore-repo/refs/heads/main/downloads/ImmortalizerJailed.zip",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+    ,
+    {
       "name": "名稱",
       "version": "1.0",
       "description": "說明",
