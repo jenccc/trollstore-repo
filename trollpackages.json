@@ -280,6 +280,7 @@
     }
      ,
   
+  
     {
       "name": "名稱",
       "version": "1.0",
@@ -287,6 +288,19 @@
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "下載連結",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
+    {
+      "name": "Youtube",
+      "version": "1.0",
+      "description": "去廣告、背景播放",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/YouTube_noad.zip",
       "section": "常用",
       "size": "未知",
       "author": "未知",
