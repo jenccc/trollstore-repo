@@ -282,6 +282,20 @@
   
   
     {
+      "name": "MatteFrame",
+      "version": "1.0",
+      "description": "App巨魔安裝使用",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/MatteFrame.deb",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
+  
+    {
       "name": "VidHub",
       "version": "1.0",
       "description": "說明",
