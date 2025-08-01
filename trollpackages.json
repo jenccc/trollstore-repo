@@ -17,8 +17,19 @@
         "https://example.com/screenshots/shot2.png"
       ]
     },
-    
-  
+    {
+      "name": "格式轉換",
+      "version": "1.0",
+      "description": "說明",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/%E6%A0%BC%E5%BC%8F%E8%BD%89%E6%8F%9B.zip",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
     {
       "name": "spotify",
       "version": "1.0",
