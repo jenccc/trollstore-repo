@@ -84,12 +84,15 @@
     ,
     {
       "name": "FakeTools",
-      "version": "5.6",
+      "version": "5.9",
       "description": "虛擬工具箱",
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
       "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/FakeTools.dylib",
-      "section": "常用",
+      "section": "三種調出方法
+·二指長按-調出UI菜單
+·三指雙擊-調出懸浮標菜單
+·雙擊導航欄-調出菜單",
       "size": "未知",
       "author": "未知",
       "screenshots": []
