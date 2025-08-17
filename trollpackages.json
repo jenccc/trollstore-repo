@@ -320,7 +320,19 @@
       "screenshots": []
     }
      ,
-  
+      {
+      "name": "SatellaJailed",
+      "version": "1.0",
+      "description": "通用內購",
+      "app_url": "",
+      "icon_url": "https://example.com/icons/flightradar24.png",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/SatellaJailed.dylib",
+      "section": "常用",
+      "size": "未知",
+      "author": "未知",
+      "screenshots": []
+    }
+     ,
     {
       "name": "VidHub",
       "version": "1.0",
