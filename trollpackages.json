@@ -326,7 +326,7 @@
       "description": "通用內購",
       "app_url": "",
       "icon_url": "https://example.com/icons/flightradar24.png",
-      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/SatellaJailed.dylib",
+      "dylib": "https://github.com/jenccc/trollstore-repo/raw/refs/heads/main/downloads/SatellaJailed.zip",
       "section": "常用",
       "size": "未知",
       "author": "未知",
